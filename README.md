@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @julkaqlka
+- on my profile you'll discover a collection of intriguing projects primarily crafted in Python and C#. I take pride in creating diverse applications, ranging from classic games like "Tic Tac Toe" to more intricate pieces such as a virtual piano, Fourier Transform visualizations, and waveform plotting tools. Additionally, I delve into the realm of sound engineering, experimenting with the generation of unique audio experiences.
+- ⚡ Fun fact: AGH's student
